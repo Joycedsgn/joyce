@@ -1,2 +1,0 @@
-# joyce
- joyce.html
